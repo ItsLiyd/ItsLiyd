@@ -21,7 +21,7 @@ Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 #### Tools
 * 🗄️ GitHub
 * 💻 VS Code
-* 🤖 AI (**A**seli **I**nimah)
+* 🤖 sedikit AI kalo budreg (**A**seli **I**nimah)
 
 ---
 
