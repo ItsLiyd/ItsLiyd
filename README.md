@@ -45,4 +45,4 @@ Berikut adalah beberapa proyek yang paling saya banggakan atau sedang saya kerja
 
 <br>
 
-**Terima kasih sudah berkunjung! ☀️**## Hi there 👋
+**Terima kasih sudah berkunjung! ☀️**
