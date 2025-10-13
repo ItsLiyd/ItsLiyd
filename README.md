@@ -1,12 +1,10 @@
 # Halo Dunia! Saya itsliyd 👋
 ---
 
-### 🌟 Gw ini apa
+### 🌟 Gw ini apa yh
 
 Swelamat datang di akun gwecj! Gw adalah **MANUKSIA** yang memiliki minat besar pada **teknologi komputer dan juga coding**.
-
 Disini gw suka eksplorasi dan menciptakan, terutama ketika melibatkan **JavaScript**.
-
 Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 
 * 🌍 **Lokasi:** **Indonesia** - Horeg Timur
