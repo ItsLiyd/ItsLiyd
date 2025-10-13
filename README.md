@@ -19,8 +19,9 @@ Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 * ✍️ Membuat bot discord untuk komunitas ku
 
 #### Tools
-* 🗄️ Git & GitHub
+* 🗄️ GitHub
 * 💻 VS Code
+* 🤖 AI (**A**seli **I**nimah)
 
 ---
 
