@@ -1,7 +1,7 @@
-# Halo Dunia! Saya itsliyd 👋
+# Hello World 👋
 ---
 
-### 🌟 Gw ini apa yh
+### 🌟 Halo Aku Gwe
 
 Swelamat datang di akun gwecj! Gw adalah **MANUKSIA** yang memiliki minat besar pada **teknologi komputer dan juga coding**.
 Disini gw suka eksplorasi dan menciptakan, terutama ketika melibatkan **JavaScript**.
