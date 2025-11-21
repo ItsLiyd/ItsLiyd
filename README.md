@@ -1,5 +1,5 @@
 ![my bini](https://i.supaimg.com/9effc51d-081c-46c5-b499-bdd808a1b4ba.png)
-![JavaScript](https://img.shields.io/badge/JAWA%20script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white)![C++](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAWA%20script-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   ![HTML5](https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white)   ![C++](https://img.shields.io/badge/C++-E34F26?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 # Hello World 👋
 ---
 
