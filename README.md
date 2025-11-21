@@ -1,4 +1,4 @@
-![my bini](https://i.supaimg.com/c67b49b3-6416-4b9e-91df-5e52875bc4cf.jpg)
+![my bini](https://i.supaimg.com/2cd387d6-56cf-40b1-a0e3-5457a77e31e8.jpg)
 # Hello World 👋
 ---
 
@@ -9,14 +9,14 @@ Disini gw suka eksplorasi dan menciptakan, terutama ketika melibatkan **JavaScri
 Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 
 * 🌍 **Lokasi:** **Indonesia** - Horeg Timur
-* 🎓 **Pendidikan:** **SMK** Jurusan **TKJ**
+* 🎓 **Pendidikan:** **SMK**
 * 🏠 **Istri: Hu Tao** 
 * 💬 **Bahasa:** Indonesia, Jawa, English
 
 ---
 
 #### Desain & Kreativitas
-* 🎨 CapCut, Canva, Alight Motion
+* 🎨 CapCut, Canva and Picsart
 * ✍️ Membuat bot discord untuk komunitas ku
 
 #### Tools
