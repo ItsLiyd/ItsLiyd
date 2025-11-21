@@ -1,5 +1,5 @@
 ![my bini](https://i.supaimg.com/9effc51d-081c-46c5-b499-bdd808a1b4ba.png)
-![forthebadge](/featured/featured-built-with-love.svg)](https://forthebadge.com)
+![forthebadge](/featured/featured-built-with-love.svg)
 # Hello World 👋
 ---
 
