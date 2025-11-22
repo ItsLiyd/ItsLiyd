@@ -35,7 +35,7 @@ Berikut adalah beberapa proyek yang paling saya banggakan atau sedang saya kerja
 | :--- | :--- | :--- |
 | **Pengembangan TawBot** | Sebuah bot discord untuk **Have Fun**. | Work In Progress |
 | **Pengembangan Arduino** | Ini buat tugas sekolah gw bg :v | Selesai [Lihat di](https://wokwi.com/projects/439071187561745409) |
-| **Pengembangan website** | Proyek iseng iseng | Online di [itsliyd.github.io](https://itsliyd.github.io/) |
+| **Pengembangan website** | Proyek iseng iseng, untuk versi mobile masih belom ada bjir | Online di [itsliyd.github.io](https://itsliyd.github.io/) |
 
 ---
 
@@ -43,8 +43,8 @@ Berikut adalah beberapa proyek yang paling saya banggakan atau sedang saya kerja
 
 | Platform | Tautan |
 | :--- | :--- |
-| **Website** | [https://itsliyd.github.io/](https://itsliyd.github.io/) |
-| **Discord** | [https://dsc.gg/liydcomunity](https://dsc.gg/liydcomunity) |
+| **Website** | [itsliyd.github.io/](https://itsliyd.github.io/) |
+| **Discord** | [dsc.gg/liydcomunity](https://dsc.gg/liydcomunity) |
 
 <br>
 
