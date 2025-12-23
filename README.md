@@ -28,25 +28,6 @@ Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 
 ---
 
-### 🎨 Proyek Pilihan (Sorotan)
-
-Berikut adalah beberapa proyek yang paling saya banggakan atau sedang saya kerjakan:
-
-| Nama Proyek | Deskripsi Singkat | Status |
-| :--- | :--- | :--- |
-| **Pengembangan TawBot** | Sebuah bot discord untuk **Have Fun**. | Work In Progress |
-| **Pengembangan Arduino** | Ini buat tugas sekolah gw bg :v | Selesai [Lihat di](https://wokwi.com/projects/439071187561745409) |
-| **Pengembangan website** | Proyek iseng iseng, untuk versi mobile masih belom ada bjir | Online di [itsliyd.github.io](https://itsliyd.github.io/) |
-
----
-
-### 🔗 Mari Terhubung
-
-| Platform | Tautan |
-| :--- | :--- |
-| **Website** | [itsliyd.github.io/](https://itsliyd.github.io/) |
-| **Discord** | [dsc.gg/liydcomunity](https://dsc.gg/liydcomunity) |
-
 <br>
 
 **Terima kasih sudah berkunjung! ☀️**
