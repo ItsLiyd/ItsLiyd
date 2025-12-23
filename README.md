@@ -11,6 +11,7 @@ Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 
 * 🌍 **Lokasi:** **Indonesia** - Horeg Timur
 * 🎓 **Pendidikan:** **SMK**
+* 📖 **Status:** Pelajar
 * 💬 **Bahasa:** Indonesia, Jawa, English
 * 🏠 **Istri: Hu Tao** 
 
