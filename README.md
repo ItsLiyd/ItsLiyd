@@ -3,7 +3,7 @@
 # Hello World 👋
 ---
 
-### 🌟 Halo Aku Gwe
+### 🌟 Halo! Aku adalah Gue
 
 Swelamat datang di akun gwecj! Gw adalah **MANUKSIA** yang memiliki minat besar pada **teknologi komputer dan juga coding**.
 Disini gw suka eksplorasi dan menciptakan, terutama ketika melibatkan **JavaScript**.
@@ -13,18 +13,13 @@ Gw disini baru pegang **HTML** jadi mungkin masi rada-rada :v
 * 🎓 **Pendidikan:** **SMK**
 * 📖 **Status:** Pelajar
 * 💬 **Bahasa:** Indonesia, Jawa, English
-* 🏠 **Istri: Hu Tao** 
 
 ---
-
-#### Desain & Kreativitas
-* 🎨 CapCut, Canva and Picsart
-* ✍️ Membuat bot discord untuk komunitas ku
 
 #### Tools
 * 🗄️ GitHub
 * 💻 VS Code
-* 🤖 sedikit AI (**A**seli **I**nimah)
+* 🤖 Dan sedikit bantuan AI (**A**seli **I**nimah)
 
 ---
 
